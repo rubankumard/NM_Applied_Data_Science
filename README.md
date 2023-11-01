@@ -104,7 +104,7 @@ Clone this repo by typing
  
   ✒️ Rubankumar D , Student, B.E ECE, Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India. </br></br>
   ✒️ Pattu Hariharaan N , Student, B.E ECE, Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India. </br></br>
-  ✒️ Karthik K , Student, B.E ECE, Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India. </br></br>
+  ✒️ Karthick K , Student, B.E ECE, Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India. </br></br>
   ✒️ Karthikeyan B , Student, B.E ECE, Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India. </br></br>
   ✒️ Kannappan P , Student, B.E ECE, Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India. </br></br>
   </br>
